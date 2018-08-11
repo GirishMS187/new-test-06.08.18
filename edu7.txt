@@ -6,3 +6,4 @@ girish123
 add new
 
 edureka:newtuto  bob
+alice new git tuto
