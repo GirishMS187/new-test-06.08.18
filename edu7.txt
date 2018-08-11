@@ -5,4 +5,4 @@ girish123
 123456
 add new
 
-edureka:newtuto with bob
+edureka:newtuto  bob
